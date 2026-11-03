@@ -1,0 +1,6 @@
+{
+  "name": "부스터 런 (Booster Run)",
+  "description": "60초 동안 연료통을 모으고 부스터를 터뜨려 최고 점수를 달성하는 아케이드 웹 게임",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
